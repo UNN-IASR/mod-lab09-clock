@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\GitMy\Clocks\Clocks\bin\Debug\Clocks.exe.config
+C:\Users\Admin\source\repos\GitMy\Clocks\Clocks\bin\Debug\Clocks.exe
+C:\Users\Admin\source\repos\GitMy\Clocks\Clocks\bin\Debug\Clocks.pdb
+C:\Users\Admin\source\repos\GitMy\Clocks\Clocks\obj\Debug\Clocks.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\GitMy\Clocks\Clocks\obj\Debug\Clocks.Properties.Resources.resources
+C:\Users\Admin\source\repos\GitMy\Clocks\Clocks\obj\Debug\Clocks.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\GitMy\Clocks\Clocks\obj\Debug\Clocks.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GitMy\Clocks\Clocks\obj\Debug\Clocks.exe
+C:\Users\Admin\source\repos\GitMy\Clocks\Clocks\obj\Debug\Clocks.pdb
