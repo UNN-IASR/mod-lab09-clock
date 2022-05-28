@@ -1,0 +1,16 @@
+C:\Users\Makskyreer\Desktop\Штанюк\mod-task09-clock-b21\App\bin\Debug\netcoreapp3.1\ClockCSharp.exe
+C:\Users\Makskyreer\Desktop\Штанюк\mod-task09-clock-b21\App\bin\Debug\netcoreapp3.1\ClockCSharp.deps.json
+C:\Users\Makskyreer\Desktop\Штанюк\mod-task09-clock-b21\App\bin\Debug\netcoreapp3.1\ClockCSharp.runtimeconfig.json
+C:\Users\Makskyreer\Desktop\Штанюк\mod-task09-clock-b21\App\bin\Debug\netcoreapp3.1\ClockCSharp.runtimeconfig.dev.json
+C:\Users\Makskyreer\Desktop\Штанюк\mod-task09-clock-b21\App\bin\Debug\netcoreapp3.1\ClockCSharp.dll
+C:\Users\Makskyreer\Desktop\Штанюк\mod-task09-clock-b21\App\bin\Debug\netcoreapp3.1\ClockCSharp.pdb
+C:\Users\Makskyreer\Desktop\Штанюк\mod-task09-clock-b21\App\obj\Debug\netcoreapp3.1\ClockCSharp.csproj.AssemblyReference.cache
+C:\Users\Makskyreer\Desktop\Штанюк\mod-task09-clock-b21\App\obj\Debug\netcoreapp3.1\ClockCSharp.ClockForm.resources
+C:\Users\Makskyreer\Desktop\Штанюк\mod-task09-clock-b21\App\obj\Debug\netcoreapp3.1\ClockCSharp.csproj.GenerateResource.cache
+C:\Users\Makskyreer\Desktop\Штанюк\mod-task09-clock-b21\App\obj\Debug\netcoreapp3.1\ClockCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makskyreer\Desktop\Штанюк\mod-task09-clock-b21\App\obj\Debug\netcoreapp3.1\ClockCSharp.AssemblyInfoInputs.cache
+C:\Users\Makskyreer\Desktop\Штанюк\mod-task09-clock-b21\App\obj\Debug\netcoreapp3.1\ClockCSharp.AssemblyInfo.cs
+C:\Users\Makskyreer\Desktop\Штанюк\mod-task09-clock-b21\App\obj\Debug\netcoreapp3.1\ClockCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Makskyreer\Desktop\Штанюк\mod-task09-clock-b21\App\obj\Debug\netcoreapp3.1\ClockCSharp.dll
+C:\Users\Makskyreer\Desktop\Штанюк\mod-task09-clock-b21\App\obj\Debug\netcoreapp3.1\ClockCSharp.pdb
+C:\Users\Makskyreer\Desktop\Штанюк\mod-task09-clock-b21\App\obj\Debug\netcoreapp3.1\ClockCSharp.genruntimeconfig.cache
