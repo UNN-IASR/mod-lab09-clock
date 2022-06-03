@@ -1,0 +1,17 @@
+C:\Users\Makar\source\repos\MIPIS_clock\MIPIS_clock\bin\Debug\net6.0-windows\MIPIS_clock.exe
+C:\Users\Makar\source\repos\MIPIS_clock\MIPIS_clock\bin\Debug\net6.0-windows\MIPIS_clock.deps.json
+C:\Users\Makar\source\repos\MIPIS_clock\MIPIS_clock\bin\Debug\net6.0-windows\MIPIS_clock.runtimeconfig.json
+C:\Users\Makar\source\repos\MIPIS_clock\MIPIS_clock\bin\Debug\net6.0-windows\MIPIS_clock.dll
+C:\Users\Makar\source\repos\MIPIS_clock\MIPIS_clock\bin\Debug\net6.0-windows\MIPIS_clock.pdb
+C:\Users\Makar\source\repos\MIPIS_clock\MIPIS_clock\obj\Debug\net6.0-windows\MIPIS_clock.csproj.AssemblyReference.cache
+C:\Users\Makar\source\repos\MIPIS_clock\MIPIS_clock\obj\Debug\net6.0-windows\MIPIS_clock.Form1.resources
+C:\Users\Makar\source\repos\MIPIS_clock\MIPIS_clock\obj\Debug\net6.0-windows\MIPIS_clock.csproj.GenerateResource.cache
+C:\Users\Makar\source\repos\MIPIS_clock\MIPIS_clock\obj\Debug\net6.0-windows\MIPIS_clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makar\source\repos\MIPIS_clock\MIPIS_clock\obj\Debug\net6.0-windows\MIPIS_clock.AssemblyInfoInputs.cache
+C:\Users\Makar\source\repos\MIPIS_clock\MIPIS_clock\obj\Debug\net6.0-windows\MIPIS_clock.AssemblyInfo.cs
+C:\Users\Makar\source\repos\MIPIS_clock\MIPIS_clock\obj\Debug\net6.0-windows\MIPIS_clock.csproj.CoreCompileInputs.cache
+C:\Users\Makar\source\repos\MIPIS_clock\MIPIS_clock\obj\Debug\net6.0-windows\MIPIS_clock.dll
+C:\Users\Makar\source\repos\MIPIS_clock\MIPIS_clock\obj\Debug\net6.0-windows\refint\MIPIS_clock.dll
+C:\Users\Makar\source\repos\MIPIS_clock\MIPIS_clock\obj\Debug\net6.0-windows\MIPIS_clock.pdb
+C:\Users\Makar\source\repos\MIPIS_clock\MIPIS_clock\obj\Debug\net6.0-windows\MIPIS_clock.genruntimeconfig.cache
+C:\Users\Makar\source\repos\MIPIS_clock\MIPIS_clock\obj\Debug\net6.0-windows\ref\MIPIS_clock.dll
