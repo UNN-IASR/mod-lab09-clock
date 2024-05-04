@@ -1,0 +1,10 @@
+C:\Users\MSI\Desktop\для арины\shtanuk\mod-lab09-clock\mod-lab09-clock\bin\Debug\mod-lab09-clock1.exe.config
+C:\Users\MSI\Desktop\для арины\shtanuk\mod-lab09-clock\mod-lab09-clock\bin\Debug\mod-lab09-clock1.exe
+C:\Users\MSI\Desktop\для арины\shtanuk\mod-lab09-clock\mod-lab09-clock\bin\Debug\mod-lab09-clock1.pdb
+C:\Users\MSI\Desktop\для арины\shtanuk\mod-lab09-clock\mod-lab09-clock\obj\Debug\mod-lab09-clock.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\для арины\shtanuk\mod-lab09-clock\mod-lab09-clock\obj\Debug\mod_lab09_clock1.Form1.resources
+C:\Users\MSI\Desktop\для арины\shtanuk\mod-lab09-clock\mod-lab09-clock\obj\Debug\mod_lab09_clock1.Properties.Resources.resources
+C:\Users\MSI\Desktop\для арины\shtanuk\mod-lab09-clock\mod-lab09-clock\obj\Debug\mod-lab09-clock.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\для арины\shtanuk\mod-lab09-clock\mod-lab09-clock\obj\Debug\mod-lab09-clock.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\для арины\shtanuk\mod-lab09-clock\mod-lab09-clock\obj\Debug\mod-lab09-clock1.exe
+C:\Users\MSI\Desktop\для арины\shtanuk\mod-lab09-clock\mod-lab09-clock\obj\Debug\mod-lab09-clock1.pdb
