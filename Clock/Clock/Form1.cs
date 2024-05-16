@@ -35,52 +35,28 @@ namespace Clock
 
                 g.DrawEllipse(cir_pen, (int)-r, (int)-r, 2 * (int)r, 2 * (int)r);
 
+                for (int i = 0; i < 60; i++)
+                {
+                    g.DrawLine(new Pen(new SolidBrush(Color.Black), 5),
+                        (float)Math.Cos(i * Math.PI / 30) * r,
+                        (float)Math.Sin(i * Math.PI / 30) * r,
+                        (float)Math.Cos(i * Math.PI / 30) * 0.97f * r,
+                        (float)Math.Sin(i * Math.PI / 30) * 0.97f * r);
+                }
+
+                for (int i = 0; i < 12; i++)
+                {
+                    g.DrawLine(new Pen(new SolidBrush(Color.Black), 5),
+                        (float)Math.Cos(i * Math.PI / 6) * r,
+                        (float)Math.Sin(i * Math.PI / 6) * r,
+                        (float)Math.Cos(i * Math.PI / 6) * 0.95f * r,
+                        (float)Math.Sin(i * Math.PI / 6) * 0.95f * r);
+                }
+
                 g.DrawLine(new Pen(new SolidBrush(Color.Black), 5), 0, r, 0, 0.9f * r);
                 g.DrawLine(new Pen(new SolidBrush(Color.Black), 5), 0, -r, 0, -0.9f * r);
                 g.DrawLine(new Pen(new SolidBrush(Color.Black), 5), r, 0, 0.9f * r, 0);
                 g.DrawLine(new Pen(new SolidBrush(Color.Black), 5), -r, 0, -0.9f * r, 0);
-
-                g.DrawLine(new Pen(new SolidBrush(Color.Black), 5), 
-                    (float)Math.Cos(Math.PI / 6) * r, 
-                    (float)Math.Sin(Math.PI / 6) * r, 
-                    (float)Math.Cos(Math.PI / 6) * 0.95f * r, 
-                    (float)Math.Sin(Math.PI / 6) * 0.95f * r);
-                g.DrawLine(new Pen(new SolidBrush(Color.Black), 5), 
-                    (float)Math.Cos(Math.PI / 6) * r, 
-                    (float)Math.Sin(Math.PI / 6) * -r, 
-                    (float)Math.Cos(Math.PI / 6) * 0.95f * r, 
-                    (float)Math.Sin(Math.PI / 6) * -0.95f * r);
-                g.DrawLine(new Pen(new SolidBrush(Color.Black), 5), 
-                    (float)Math.Cos(Math.PI / 6) * -r, 
-                    (float)Math.Sin(Math.PI / 6) * r, 
-                    (float)Math.Cos(Math.PI / 6) * -0.95f * r, 
-                    (float)Math.Sin(Math.PI / 6) * 0.95f * r);
-                g.DrawLine(new Pen(new SolidBrush(Color.Black), 5), 
-                    (float)Math.Cos(Math.PI / 6) * -r, 
-                    (float)Math.Sin(Math.PI / 6) * -r,
-                    (float)Math.Cos(Math.PI / 6) * -0.95f * r, 
-                    (float)Math.Sin(Math.PI / 6) * -0.95f * r);
-
-                g.DrawLine(new Pen(new SolidBrush(Color.Black), 5),
-                    (float)Math.Cos(Math.PI / 3) * r,
-                    (float)Math.Sin(Math.PI / 3) * r,
-                    (float)Math.Cos(Math.PI / 3) * 0.95f * r,
-                    (float)Math.Sin(Math.PI / 3) * 0.95f * r);
-                g.DrawLine(new Pen(new SolidBrush(Color.Black), 5),
-                    (float)Math.Cos(Math.PI / 3) * r,
-                    (float)Math.Sin(Math.PI / 3) * -r,
-                    (float)Math.Cos(Math.PI / 3) * 0.95f * r,
-                    (float)Math.Sin(Math.PI / 3) * -0.95f * r);
-                g.DrawLine(new Pen(new SolidBrush(Color.Black), 5),
-                    (float)Math.Cos(Math.PI / 3) * -r,
-                    (float)Math.Sin(Math.PI / 3) * r,
-                    (float)Math.Cos(Math.PI / 3) * -0.95f * r,
-                    (float)Math.Sin(Math.PI / 3) * 0.95f * r);
-                g.DrawLine(new Pen(new SolidBrush(Color.Black), 5),
-                    (float)Math.Cos(Math.PI / 3) * -r,
-                    (float)Math.Sin(Math.PI / 3) * -r,
-                    (float)Math.Cos(Math.PI / 3) * -0.95f * r,
-                    (float)Math.Sin(Math.PI / 3) * -0.95f * r);
 
                 if (r > 150)
                 {
