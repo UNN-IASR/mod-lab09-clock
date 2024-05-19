@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace AnalogClockApp
@@ -39,7 +33,7 @@ namespace AnalogClockApp
         {
             var g = e.Graphics;
             g.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.HighQuality;
-            
+
             DrawFace(g);
 
             DrawHours(g);
@@ -50,10 +44,10 @@ namespace AnalogClockApp
         private void DrawSeconds(Graphics g)
         {
             var time = DateTime.Now;
-            var angle = 2*Math.PI / 60F * time.Second;
+            var angle = 2 * Math.PI / 60F * time.Second;
             float x0 = 0 - 10 * (float)Math.Sin(angle);
             float y0 = 0 - 10 * (float)Math.Cos(angle);
-            float x1 = _secondsLength * (float)Math.Sin(angle); 
+            float x1 = _secondsLength * (float)Math.Sin(angle);
             float y1 = _secondsLength * (float)Math.Cos(angle);
 
             g.DrawLine(_secondsPen, x0, -y0, x1, -y1);
