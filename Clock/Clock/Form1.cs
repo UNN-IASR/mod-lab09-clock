@@ -29,7 +29,6 @@ namespace Clock
                 Pen cir_pen = new Pen(Color.Black, 5);
 
                 Graphics g = e.Graphics;
-                GraphicsState gs;
 
                 g.TranslateTransform(w / 2, h / 2);
 
@@ -94,8 +93,6 @@ namespace Clock
                         (float)Math.Sin(5 * Math.PI / 6) * 0.9f * r - 14);
                 }
 
-                gs = g.Save();
-
                 float[] secs = new float[2];
                 secs[0] = (float)Math.Cos((dt.Second - 15) * Math.PI / 30) * 0.9f * r;
                 secs[1] = (float)Math.Sin((dt.Second - 15) * Math.PI / 30) * 0.9f * r;
@@ -111,14 +108,11 @@ namespace Clock
 
                 g.FillEllipse(new SolidBrush(Color.Black), -3, -3, 6, 6);
 
-                g.Restore(gs);
             }
             else
             {
                 Graphics g = e.Graphics;
-                GraphicsState gs;
-                gs = g.Save();
-                g.Restore(gs);
+                g.FillRectangle(new SolidBrush(SystemColors.Control), this.ClientRectangle);
             }
         }
 
