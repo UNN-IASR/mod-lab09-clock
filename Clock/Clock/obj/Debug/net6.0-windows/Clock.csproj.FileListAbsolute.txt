@@ -1,0 +1,17 @@
+D:\штанюк\mod-lab09-clock\Clock\Clock\bin\Debug\net6.0-windows\Clock.exe
+D:\штанюк\mod-lab09-clock\Clock\Clock\bin\Debug\net6.0-windows\Clock.deps.json
+D:\штанюк\mod-lab09-clock\Clock\Clock\bin\Debug\net6.0-windows\Clock.runtimeconfig.json
+D:\штанюк\mod-lab09-clock\Clock\Clock\bin\Debug\net6.0-windows\Clock.dll
+D:\штанюк\mod-lab09-clock\Clock\Clock\bin\Debug\net6.0-windows\Clock.pdb
+D:\штанюк\mod-lab09-clock\Clock\Clock\obj\Debug\net6.0-windows\Clock.csproj.AssemblyReference.cache
+D:\штанюк\mod-lab09-clock\Clock\Clock\obj\Debug\net6.0-windows\Clock.Form1.resources
+D:\штанюк\mod-lab09-clock\Clock\Clock\obj\Debug\net6.0-windows\Clock.csproj.GenerateResource.cache
+D:\штанюк\mod-lab09-clock\Clock\Clock\obj\Debug\net6.0-windows\Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\штанюк\mod-lab09-clock\Clock\Clock\obj\Debug\net6.0-windows\Clock.AssemblyInfoInputs.cache
+D:\штанюк\mod-lab09-clock\Clock\Clock\obj\Debug\net6.0-windows\Clock.AssemblyInfo.cs
+D:\штанюк\mod-lab09-clock\Clock\Clock\obj\Debug\net6.0-windows\Clock.csproj.CoreCompileInputs.cache
+D:\штанюк\mod-lab09-clock\Clock\Clock\obj\Debug\net6.0-windows\Clock.dll
+D:\штанюк\mod-lab09-clock\Clock\Clock\obj\Debug\net6.0-windows\refint\Clock.dll
+D:\штанюк\mod-lab09-clock\Clock\Clock\obj\Debug\net6.0-windows\Clock.pdb
+D:\штанюк\mod-lab09-clock\Clock\Clock\obj\Debug\net6.0-windows\Clock.genruntimeconfig.cache
+D:\штанюк\mod-lab09-clock\Clock\Clock\obj\Debug\net6.0-windows\ref\Clock.dll
